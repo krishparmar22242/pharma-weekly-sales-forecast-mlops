@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+mlflow
+
+# API
+fastapi
+uvicorn[standard]
+requests
+
+# Optional (nice-to-haves)
+matplotlib
+prophet
+statsmodels
+dagshub
+streamlit
+
+
+
+# venv\Scripts\activate
+# pip install -r requirements.txt
+
+

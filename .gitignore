@@ -1,0 +1,15 @@
+# ignore large project folders
+CTR_MLOps_Project/
+FND/
+MLOPS/
+retail/
+venv/
+__pycache__/
+*.csv
+*.pkl
+*.zip
+*.xlsx
+mlruns/
+*.db
+*.db-shm
+*.db-wal
