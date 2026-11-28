@@ -138,4 +138,4 @@ The lag-feature-enhanced XGBoost model substantially outperformed all classical 
 
 ## Author
 
-Nidhi Parmar
+Krish Parmar
